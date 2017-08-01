@@ -14,6 +14,7 @@ Looking for an Android version? [See here](https://www.github.com/Jasonette/JASO
 ## ★ Jasonette fetches this JSON markup from a server:
 
 ![json](https://raw.githubusercontent.com/gliechtenstein/images/master/json.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FanilMobileDevelopement%2FJASONETTE-iOS.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FanilMobileDevelopement%2FJASONETTE-iOS?ref=badge_shield)
 
 ## ★ And self-constructs into the following native app, in realtime:
 
@@ -138,3 +139,6 @@ There are many ways to contribute. But first, please [read the contributing guid
 
 # License
 Jasonette is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FanilMobileDevelopement%2FJASONETTE-iOS.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FanilMobileDevelopement%2FJASONETTE-iOS?ref=badge_large)
